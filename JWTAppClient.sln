@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTAppClient", "JWTAppClient\JWTAppClient.csproj", "{647E93D7-EAF2-4051-9518-0831D770A6B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestJWTAppClient", "UnitTestJWTAppClient\UnitTestJWTAppClient.csproj", "{2D7CA6B3-2E5B-4FA6-88C5-CBC16DAA0B91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647E93D7-EAF2-4051-9518-0831D770A6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647E93D7-EAF2-4051-9518-0831D770A6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647E93D7-EAF2-4051-9518-0831D770A6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647E93D7-EAF2-4051-9518-0831D770A6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D7CA6B3-2E5B-4FA6-88C5-CBC16DAA0B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7CA6B3-2E5B-4FA6-88C5-CBC16DAA0B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7CA6B3-2E5B-4FA6-88C5-CBC16DAA0B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7CA6B3-2E5B-4FA6-88C5-CBC16DAA0B91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E5B390C-951E-4E23-8037-8A01860CB843}
+	EndGlobalSection
+EndGlobal
